@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\program files\microsoft sdks\kinect\developer toolkit v1.7.0\samples\c++\skeletonbasics-d2d\</FILEPATH><FILENAME>skeletonbasics.cpp</FILENAME><LINE>25</LINE><COLUMN>13</COLUMN></SFA><DEFECTCODE>28251</DEFECTCODE><DESCRIPTION>Inconsistent annotation for 'wWinMain': this instance has no annotations. See c:\program files (x86)\windows kits\8.0\include\um\winbase.h(2201). </DESCRIPTION><FUNCTION>wWinMain</FUNCTION><DECORATED>wWinMain@16</DECORATED><FUNCLINE>25</FUNCLINE><PATH/></DEFECT></DEFECTS>
